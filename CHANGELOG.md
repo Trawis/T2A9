@@ -3,6 +3,12 @@ Release notes for changes to the trainer
 
 ---
 
+**2.13**
+10.10.2018. for Alpha 9 stable
+- Final version of trainer
+
+---
+
 **2.12**
 
 01.09.2017. for Alpha 9.10.13
